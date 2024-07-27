@@ -11,7 +11,7 @@ import SwiftUI
 struct Ex4App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BaseView()
         }
     }
 }
